@@ -5,4 +5,14 @@
          color: #b72525;
          text-align: center;
          margin-top: 20px;
-         
+         text-decoration: underline;
+         }
+ 
+         .img_oat {
+         display: block;
+         margin: 20px auto;
+        }   
+
+            .background {
+            background-color: #f2f2f2;
+            }
